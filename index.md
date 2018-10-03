@@ -6,11 +6,14 @@ Currently this page has SOPs for RNAseq experiments and also links to web tools 
 
 ### Experiment SOP
 
-[I'm an inline-style link](https://www.google.com)
+{r label, out.width = "85%", fig.cap = "caption"}
+include_graphics("./RNAseqSOP.pdf")
+
+
 
 ### RNAseq Analysis Tools
 
-[I'm an inline-style link](https://www.google.com)
+[RNAseq data Browser](http://ec2-54-166-180-138.compute-1.amazonaws.com/shiny/rstudio/Vignali_P01_RNAseqdata/)
 
 
 ### Support or Contact
