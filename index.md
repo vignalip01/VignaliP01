@@ -15,6 +15,9 @@ include_graphics("./RNAseqSOP.pdf")
 
 [RNAseq data Browser](http://ec2-54-166-180-138.compute-1.amazonaws.com/shiny/rstudio/Vignali_P01_RNAseqdata/)
 
+[scRNAseq data Browser(10x Seurat Based)](http://ec2-54-166-180-138.compute-1.amazonaws.com/shiny/rstudio/Vignali_P01_scRNAseqdata/)
+
+
 
 ### Support or Contact
 
