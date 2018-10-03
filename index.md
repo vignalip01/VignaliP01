@@ -6,7 +6,7 @@ Currently this page has SOPs for RNAseq experiments and also links to web tools 
 
 ### Experiment SOP
 
-
+[RNAseq Experiment SOP(Vignali Lab)] (https://github.com/vignalip01/vignalip01.github.io/blob/master/RNAseqSOP.pdf)
 
 
 ### RNAseq Analysis Tools
