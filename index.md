@@ -6,8 +6,6 @@ Currently this page has SOPs for RNAseq experiments and also links to web tools 
 
 ### Experiment SOP
 
-{r label, out.width = "85%", fig.cap = "caption"}
-include_graphics("./RNAseqSOP.pdf")
 
 
 
