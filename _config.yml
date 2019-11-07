@@ -1,3 +1,4 @@
-theme: jekyll-theme-architect
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 title: Vignali P01
 description: Project Resources Homepage
+plugins: jekyll-include-cache
