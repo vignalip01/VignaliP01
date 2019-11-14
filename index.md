@@ -21,6 +21,6 @@ Currently this page has SOPs for RNAseq experiments and also links to web tools 
 
 Having trouble with Anything? Contact sasim@pennmedicine.upenn.edu or message at https://vignalip01.slack.com/ and we’ll help you sort it out.
 
-Signup for vignalip01 slack at https://join.slack.com/t/vignalip01/signup with your academic email
+Signup for vignalip01 slack at [vignalip01 slack](https://join.slack.com/t/vignalip01/signup) with your academic email
 
 
