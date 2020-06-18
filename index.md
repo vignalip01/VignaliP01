@@ -11,9 +11,9 @@ Currently this page has SOPs for RNAseq experiments and also links to web tools 
 
 ### RNAseq Analysis Tools
 
-[RNAseq data Browser](http://ec2-3-84-133-137.compute-1.amazonaws.com/shiny/rstudio/Vignali_P01_RNAseqdata/)
+[RNAseq data Browser](http://ec2-54-198-170-224.compute-1.amazonaws.com/shiny/rstudio/Vignali_P01_RNAseqdata/)
 
-[scRNAseq data Browser(10x Seurat Based)](http://ec2-3-84-133-137.compute-1.amazonaws.com/shiny/rstudio/Vignali_P01_scRNAseqdata/)
+[scRNAseq data Browser(10x Seurat Based)](http://ec2-54-198-170-224.compute-1.amazonaws.com/shiny/rstudio/Vignali_P01_scRNAseqdata/)
 
 
 
